@@ -1,0 +1,1 @@
+var nh,mj,bg,vf;

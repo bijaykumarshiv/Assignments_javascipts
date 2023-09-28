@@ -1,0 +1,4 @@
+/*
+comments an make code readable
+easy to reuse and informative 
+*/

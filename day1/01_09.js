@@ -1,0 +1,1 @@
+var first_name,last_name,marital_status,country,age;
