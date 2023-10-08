@@ -1,1 +1,0 @@
-console.log(Math.floor((Math.random() * 250) + 5));
