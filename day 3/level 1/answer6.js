@@ -1,0 +1,14 @@
+console.log(4>3 && 10<12);
+console.log(4>3 && 10>12);
+console.log(4>3 || 10<12);
+console.log(4>3 || 10>12);
+console.log(!(4>3));
+console.log(!(4<3));
+console.log(!(false));
+console.log(!(4>3 && 10<12));
+console.log(!(4>3 && 10>12));
+console.log(!(4==='4'));
+var sen= 'dragon';
+var sen2 = 'python';
+console.log(sen.includes('on'));
+console.log(sen2.includes('on'));
